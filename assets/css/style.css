@@ -288,8 +288,11 @@ blockquote p {
 
 .navbar{
     
-    color: antiquewhite;
+    color: auto;
+    
+    
 }
+
 .navbar-brand {
   height: auto;
 }
@@ -487,6 +490,7 @@ blockquote p {
 
 .section-services-inner .service-box {
   margin-bottom: 30px;
+  
 }
 
 .service-img {
@@ -553,7 +557,7 @@ blockquote p {
 }
 
 .service-color-one {
-  background: #feede9;
+  background: #fbc2eb;
 }
 
 .service-color-two {
