@@ -7,7 +7,7 @@ $phone          = $_POST['cphone'];
 $messages        = $_POST['cmessage'];
 $logo           = 'http://smartpixelz.com/preview/makeupartist/assets/images/logo.png'; /*update your logo url here*/ 
 
-$to = 'gauravlamba1993@gmail.com';
+$to = 'dashendricks@gmail.com';
 $headers = "From: ".$name."<demo@yourdomain.in>\r\n";
 $headers .= "Reply-To: ".strip_tags($emailaddress)."\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
